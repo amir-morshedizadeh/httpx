@@ -1,4 +1,4 @@
-module github.com/amir-morshedizadeh/httpx/
+module github.com/amir-morshedizadeh/httpx
 
 go 1.21
 
