@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/httpx
+module github.com/amir-morshedizadeh/httpx/
 
 go 1.21
 
