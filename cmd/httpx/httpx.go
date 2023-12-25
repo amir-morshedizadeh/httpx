@@ -7,6 +7,7 @@ import (
 	"runtime/pprof"
 
 	"github.com/projectdiscovery/gologger"
+	"github.com/projectdiscovery/httpx/runner"
 	errorutil "github.com/projectdiscovery/utils/errors"
 )
 
